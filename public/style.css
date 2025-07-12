@@ -1,0 +1,21 @@
+.post {
+    background-color: antiquewhite ;
+}
+
+h1 {
+    color: orchid;
+}
+
+.user {
+    font-style: italic;
+}
+
+.img {
+    height: 100px;
+    width: 100px;
+}
+
+#imge {
+    height: 50vh;
+    width: 50vh;
+}
